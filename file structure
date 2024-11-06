@@ -1,0 +1,14 @@
+
+### 6. File Structure
+
+1. **Global Superstore Performance Dashboard.twb**: The Tableau workbook file.
+2. **LICENSE**: The license file (e.g., MIT License).
+3. **README.md**: The main documentation file.
+4. **screenshots/**: A folder for screenshots of the Tableau dashboard views.
+
+### 7. How to Clone the Repository
+
+To clone your repository:
+
+```bash
+git clone https://github.com/yourusername/global-superstore-performance-dashboard.git
