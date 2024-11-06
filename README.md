@@ -35,6 +35,10 @@ Include screenshots here to showcase different dashboard views.
 
 2. Open the file `Global Superstore Performance Dashboard.twb` in Tableau Desktop.
 
+3. Contact
+For any questions or feedback, please contact Allan Otieno Akumu at [allanotieno2001@gmail.com].
+
+
 ## Repository Structure
 
 ```plaintext
@@ -44,3 +48,4 @@ global-superstore-performance-dashboard/
 ├── README.md                                    # Project Overview and Instructions
 ├── LICENSE                                      # MIT License
 └── screenshots/                                 # Folder for dashboard screenshots
+
